@@ -12,34 +12,32 @@ A continuación, se presentan los pantallazos de evidencia respecto a la inserci
 
 Inserción de los datos de la categoría: Salud 1️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540627-c96d1c54-2186-4ae1-8715-a67af841f408.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540636-4ca85e19-7448-4f96-b114-ad3e8cfa38c4.png" width="350px" hight="100px"> 
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540320-f091de8e-bf12-4b1f-a187-434e64def0b1.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540320-f091de8e-bf12-4b1f-a187-434e64def0b1.png" width="350px" hight="100px"> 
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540354-6773732b-6aeb-41fb-92a8-3d4ae2b907ef.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540354-6773732b-6aeb-41fb-92a8-3d4ae2b907ef.png" width="350px" hight="100px"> 
 
 Inserción de los datos de la categoría: Ambiente 2️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540393-904bcdee-e811-4a01-b22a-9d40c47427d8.png)
-" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540393-904bcdee-e811-4a01-b22a-9d40c47427d8.png" width="350px" hight="100px"> 
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540418-a12a91c9-40a1-4d52-a162-628ace80d8f1.png)
-" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540418-a12a91c9-40a1-4d52-a162-628ace80d8f1.png" width="350px" hight="100px"> 
 
 Inserción de los datos de la categoría: Ciencia 3️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540438-ca3e5840-47ad-4995-94f1-64441c2b43ac.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540438-ca3e5840-47ad-4995-94f1-64441c2b43ac.png" width="350px" hight="100px"> 
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540450-bc60ad8e-c873-4cfe-a505-258fe926657b.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540450-bc60ad8e-c873-4cfe-a505-258fe926657b.png" width="350px" hight="100px"> 
 
 Inserción de los datos de la categoría: Tecnología 4️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540474-e4d8d8f2-580b-4c4f-912b-d4527813d2e0.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540474-e4d8d8f2-580b-4c4f-912b-d4527813d2e0.png" width="350px" hight="100px"> 
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540487-abcd727b-c5cc-497b-9aef-91df9ed98497.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540487-abcd727b-c5cc-497b-9aef-91df9ed98497.png" width="350px" hight="100px"> 
 
 Inserción de los datos de la categoría: Economía 5️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540496-f5a88b94-8b0e-4393-84db-b3ba8bf953e6.png)" width="350px" hight="100px"> 
+<img src="https://user-images.githubusercontent.com/90856580/138540496-f5a88b94-8b0e-4393-84db-b3ba8bf953e6.png" width="350px" hight="100px"> 
 
 <img src="https://media.discordapp.net/attachments/689278650386087945/901306145002651648/unknown.png?width=829&height=670" width="350px" hight="100px"> 
