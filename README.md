@@ -12,7 +12,7 @@ A continuación, se presentan los pantallazos de evidencia respecto a la inserci
 
 Inserción de los datos de la categoría: Salud 1️⃣
 
-<img src="![image](https://user-images.githubusercontent.com/90856580/138540295-1bdf38e4-f7d1-479f-bcf2-c34a222526ea.png)" width="350px" hight="100px"> 
+<img src="![image](https://user-images.githubusercontent.com/90856580/138540627-c96d1c54-2186-4ae1-8715-a67af841f408.png)" width="350px" hight="100px"> 
 
 <img src="![image](https://user-images.githubusercontent.com/90856580/138540320-f091de8e-bf12-4b1f-a187-434e64def0b1.png)" width="350px" hight="100px"> 
 
