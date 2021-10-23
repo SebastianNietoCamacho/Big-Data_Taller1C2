@@ -8,7 +8,7 @@ Presentado a: Prof. Fabián Camilo Peña.
 
 Este repositorio contiene dos carpetas identificadas como: web-scraping-tutorial-master y nlp-tutorial-master, las cuales poseen, respectivamente, los archivos (.ipynb) nombrados como: Taller1_C2_Parte1 y Taller1_C2_Parte2. El archivo que contiene la Parte 1, tiene adjuntada toda la codificación requerida para realizar el 'web scraping' a la página del periódico colombiano El Espectador; además de las líneas solicitadas para guardar dicha cantidad inmensa de datos en una base de datos en MongoDB desde su gestor Robo 3T. En la Parte 2, se obtiene el análisis de los datos sustraídos del periódico, apliando difrentes técnicas, mediante funciones y librerías, de procesamiento del lenguaje natural como: transformación a minúsculas, tokenización y remoción de las denomindads "Stopwords" que se refieren a aquellas palabras con nulo o poco significado semántico. Cada carpeta también posee los materiales necesarios para la ejecución de ciertas librerías requeridas y, por tanto, se recomienda ejecutar los archivos desde esa misma carpeta.
 
-⚠️ Debido a que el tamaño del archivo para la segunda parte es muy grande, se realizó una comprensión por particiones y por tanto se adjuntarán dichos archivos particionados. ⚠️
+⚠️ Debido a que el tamaño del archivo para la segunda parte es muy grande, se envía solo el archivo de: Taller1_C2_Parte2.ipynb. ⚠️
 
 
 
