@@ -41,3 +41,7 @@ Inserción de los datos de la categoría: Economía 5️⃣
 <img src="https://user-images.githubusercontent.com/90856580/138540496-f5a88b94-8b0e-4393-84db-b3ba8bf953e6.png" width="350px" hight="100px"> 
 
 <img src="https://media.discordapp.net/attachments/689278650386087945/901306145002651648/unknown.png?width=829&height=670" width="350px" hight="100px"> 
+
+Resultado final de toda la inserción. ⚠️
+
+<img src="https://user-images.githubusercontent.com/90856580/138540732-ad4085c3-9ec1-4d94-8cbc-2b9eae4fee42.png" width="350px" hight="100px"> 
